@@ -1,0 +1,75 @@
+
+
+ENVIRONMENTAL 
+SCIENCES 
+
+Fig. 2. Coef?cient estimates of geographic variables moderating the 
+effects of drought on child HAZ scores. Positive coef?cients mitigate the
+effects of drought, while negative coef?cients exacerbate the effects of
+drought. Some variables were log-transformed, and then all variables were
+scaled from 0 to 1. Variables are color-coded according to whether they
+characterize a system’s sensitivity to shocks (green) or adaptive capacity
+(blue).
+countries that did not have DHS data, based on geographic data
+for as close to the year 2020 as possible. Thus, we weighed global
+data on factors that moderate the effects of drought according
+to the coef?cients estimated from our model to predict changes
+in HAZ scores under drought (Fig. 3). This map showed that
+the most drought vulnerable children are in arid areas with weak
+governments and little international trade, such as Chad, Sudan,
+Eritrea, South Sudan, Somalia, and Yemen. In addition to these
+hotspots of drought vulnerability, other areas with some vulner-
+ability included other countries throughout Africa, central Asia,
+and the Middle East, as well as Papua New Guinea, North Korea,
+and Haiti. Comparing our model’s predictions with observed
+changes in food insecurity during recent droughts in southern
+and eastern Africa shows that our model performs quite well
+(SI Appendix, Fig. S4). 
+
+Discussion
+A signi?cant advantage of this study was using a very large
+dataset, which allowed us to draw on observations of child nutri-
+tion outcomes during droughts across a range of economic,
+political, and agroenvironmental conditions. We were thus able
+infer how these conditions moderate the relationship between
+drought periods and child HAZ scores. We found that precipi-
+tation deviations from long-term norms such as minor to severe
+droughts or severely wet periods were associated with worse child
+nutrition, as measured by child HAZ scores. Using geographic
+data associated with the time and location of each child nutri-
+tion observation, we modeled how a variety of geospatial factors
+amplify or mitigate the effects of drought. Finally, we used this
+model to predict globally where current geographic contexts
+could contribute to worsened child nutrition outcomes during
+the event of a drought, based on how those factors have his-
+torically moderated the relationship between drought and HAZ
+scores. 
+In assessing the relationship between rainfall anomalies 
+and child undernutrition, previous studies have taken varied
+approaches, with some measuring lifetime growing season pre-
+cipitation levels (9, 10) and others looking at rainfall in recent
+seasons (27). Thus, we compared precipitation deviations from
+long-term norms at multiple timescales for both growing-season
+precipitation and full-year precipitation, and we found that the
+full-year 24-mo SPEI performed the best in modeling child HAZ
+scores. Although a child’s HAZ score is affected by chronic, long-
+term undernutrition, the 24-mo SPEI score performed better
+than indicators over other time frames, including the SPEI for
+the child’s lifetime. This may be due to children experiencing
+rapid growth when they receive adequate nutrition following a
+period of poor nutrition, a phenomenon known as compensatory
+growth or catch-up growth (28, 29). 
+We found that a variety of factors improve child nutrition out- 
+comes under drought. While many of these factors have been
+previously associated with positive nutrition outcomes, including
+agricultural and dietary diversity (30), crop production (31), and
+trade (32), relatively little research has been conducted exploring
+their role in mitigating the effects of drought on child nutri-
+tion. Our results indicate that, to build climate-resilient nutrition
+systems, policymakers at the national level should focus on effec-
+tive governance and trade, while local interventions should focus
+on increasing the nutritional diversity of agricultural systems as 
+Fig. 3. Expected decrease in mean child HAZ scores during drought conditions. 
+Cooper et al. PNAS | August 27, 2019 | vol. 116 | no. 35 | 17221 
+
+Downloaded at Ethiopia: PNAS Sponsored on October 13, 2020
